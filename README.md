@@ -1,3 +1,5 @@
+# !!! DO NOT USE, IT IS A FORK FOR UNAVAILABLE LIBRARY.
+
 # Datadog PHP Client
 > Lightweight php-only datadog client
 
