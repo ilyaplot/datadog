@@ -1,0 +1,25 @@
+{
+    "name": "matthiasbayer/datadog-client",
+    "description": "Standalone DataDog PHP Client, works without datadog agent",
+    "keywords": ["datadog", "client", "http", "standalone"],
+    "homepage": "http://bayer.io",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matthias Bayer",
+            "email": "thematthiasbayer@gmail.com",
+            "homepage": "http://bayer.io"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Bayer\\DataDogClient": "src/"
+        }
+    }
+}
